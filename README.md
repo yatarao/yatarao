@@ -28,7 +28,7 @@ Computer science student with hands-on experience in **AI training**, **customer
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I've Done
 
 - 🤖 **AI Training & Evaluation** — Independent contractor training AI fellowship projects involving image, text, and audio assessment; analyzing agentic products for accuracy, task completion, and alignment with safety standards
 - 🗄️ **Database Work** — Coursework in SQL database management and query optimization
