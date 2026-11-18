@@ -1,7 +1,7 @@
 ## Hi there, I'm David 👋
 Computer science student with hands-on experience in **AI training**, **customer service**, and **technical operations**. I'm passionate about building software that solves real problems — currently seeking software development or technology roles where analytical problem-solving and programming skills can contribute to meaningful projects.
 
-- 🌱 Currently sharpening my skills in **Python, Java, and SQL**
+- 🌱 Currently sharpening my skills in **Python, Java, SQL, and Homelabbing in Linux Server**
 - 📫 Reach me at: davidlehnhausen@pm.me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/david-lehnhausen)
 
